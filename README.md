@@ -19,4 +19,4 @@ https://zero-base.co.kr/category_dev_camp/JS_challenge
 
 ## Change log
 - 2022/01/12에 4-2 예제 폴더의 [styles.css 파일을 업데이트](https://github.com/zineeworld/zerobase/commit/7baff40545a378ebec097e312dfa1a2cc9ca9b96) 하였습니다. 
-- 회차에 맞지 않게 앞 클립 영상의 완성형 css 파일이 포함되어 있었습니다.
+  - 회차에 맞지 않게 앞 클립 영상의 완성형 css 파일이 포함되어 수정해두었습니다.
